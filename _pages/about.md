@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <h5> Marie Skłodowska-Curie Postdoctoral Fellow, <a href='https://www.uniud.it/'>University of Udine</a>, <a href='https://www.yorku.ca'>York University</a>.</h5>
+subtitle: Marie Skłodowska-Curie Postdoctoral Fellow, <a href='https://www.uniud.it/'>University of Udine</a>, <a href='https://www.yorku.ca'>York University</a>.
 
 profile:
   align: right
