@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-family: Menlo">Lassonde Building</p>
-    <p>York University, 4700 Keele St</p>
-    <p>Toronto ON, M3J 1P3 Canada</p>
+    <p style="font-family: Menlo">York University, 4700 Keele St</p>
+    <p style="font-family: Menlo">Toronto ON, M3J 1P3 Canada</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
