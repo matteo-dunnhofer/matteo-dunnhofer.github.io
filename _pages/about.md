@@ -6,7 +6,7 @@ subtitle: Marie Skłodowska-Curie Postdoctoral Fellow, <a href='https://www.uniu
 
 profile:
   align: right
-  image: 2022_rect_opt.jpg
+  image: 2022_rect_opt.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lassonde Building</p>
