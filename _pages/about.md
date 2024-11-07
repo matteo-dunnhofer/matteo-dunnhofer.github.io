@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a Marie Skłodowska-Curie Postdoctoral Fellow (as RTT). I work between the <a href="https://www.dmif.uniud.it/en/">Department of Mathematics, Computer Science, and Physics</a> of the <a href="http://www.uniud.it">University of Udine</a> (Udine, Italy), and the <a href="https://www.yorku.ca/cvr/">Centre for Vision Research</a> at <a href="https://www.yorku.ca">York University</a> (Toronto, Canada). 
 
-I do research on <strong>deep learning</strong> for <strong>computer vision</strong>, in particular for <strong>visual object tracking</strong>.
+My research interests revolve around <strong>deep learning</strong> for <strong>computer vision</strong>, in particular I like to study <strong>visual object tracking</strong> algorithms.
