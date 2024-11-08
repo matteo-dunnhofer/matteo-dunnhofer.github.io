@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: bio
 nav: true
 nav_order: 3
 cv_pdf: Dunnhofer2024.pdf
 description: 
 ---
-
-# bio
 
 I am currently a Marie Skłodowska-Curie Postdoctoral Fellow, employed as a Tenure-Track Researcher (RTT). I work between the <a href="https://www.dmif.uniud.it/en/">Department of Mathematics, Computer Science, and Physics</a> of the <a href="http://www.uniud.it">University of Udine</a> (Udine, Italy), and the <a href="https://www.yorku.ca/cvr/">Centre for Vision Research</a> at <a href="https://www.yorku.ca">York University</a> (Toronto, Canada). Prior to that, I was a Research Fellow (RTD-a) in the same department and a postdoc in the <a href="https://machinelearning.uniud.it">Machine Learning and Perception Lab</a> of the same institute. I also spent time as a visiting researcher at the <a href="https://www.mit.edu">Massachusetts Institute of Technology</a> (Cambridge, USA), and at the <a href="https://uah.es/en/">University of Alcalà</a> (Madrid, Spain).
 
@@ -18,4 +16,6 @@ The goal of my research is to let machines sense and understand object dynamics 
 
 I serve as reviewer for the most relevant conferences and journals in computer vision (CVPR, ICCV, ECCV, ACCV, WACV, TPAMI, IJCV), pattern recognition (ICPR, PR), robotics (ICRA, RA-L), and medical image analysis (MIDL, MedIA, TMI). I was recognized as an <a href="https://eccv2022.ecva.net/program/outstanding-reviewers/">outstanding reviewer by ECCV 2022</a>. I have been involved in the organization of a series of workshops on <a href="https://machinelearning.uniud.it/events/CV4WS-2023/Home.html">Computer Vision for Winter Sports</a> at <a href="https://wacv2023.thecvf.com/home">WACV</a> and of <a href="https://epic-kitchens.github.io/2023#tracking">object tracking challenges</a> at <a href="https://cvpr2023.thecvf.com">CVPR</a>. I am also an associate editor of <a href="https://www.springer.com/journal/371">The Visual Computer</a> journal.
 
-For more details, you can have a look at my <a href="assets/pdf/Dunnhofer2024.pdf">CV</a>.
+# cv
+
+For all the details, you can have a look at my <a href="../assets/pdf/Dunnhofer2024.pdf">curriculum vitae</a>.
