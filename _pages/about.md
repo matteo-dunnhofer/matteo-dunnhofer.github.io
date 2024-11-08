@@ -9,9 +9,7 @@ profile:
   image: 2022_rect_opt.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-family: Menlo">Lassonde Building</p>
-    <p style="font-family: Menlo">York University, 4700 Keele St</p>
-    <p style="font-family: Menlo">Toronto ON, M3J 1P3 Canada</p>
+    <p style="font-family: Menlo">Lassonde Building, York University, 4700 Keele St, Toronto ON, M3J 1P3 Canada</p>
     </br>
     <a href="mailto:matteo.dunnhofer@uniud.it" style="font-family: Menlo; color: #b509ac">matteo.dunnhofer@uniud.it</a>
 
