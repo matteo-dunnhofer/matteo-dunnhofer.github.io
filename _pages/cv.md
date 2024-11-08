@@ -8,7 +8,7 @@ cv_pdf: Dunnhofer2024.pdf
 description: 
 ---
 
-bio
+# bio
 
 I am currently a Marie Skłodowska-Curie Postdoctoral Fellow (as RTT). I work between the <strong><a href="https://www.dmif.uniud.it/en/">Department of Mathematics, Computer Science, and Physics</a></strong> of the <strong><a href="http://www.uniud.it">University of Udine</a></strong> (Udine, Italy), and the <strong><a href="https://www.yorku.ca/cvr/">Centre for Vision Research</a></strong> at <strong><a href="https://www.yorku.ca">York University</a></strong> (Toronto, Canada). 
     <!--I work within the <strong><a href="https://machinelearning.uniud.it">Machine Learning and Perception Lab</a></strong>.</p> -->
