@@ -12,6 +12,7 @@ profile:
     <p style="font-family: Menlo">Lassonde Building, York University, 4700 Keele St, Toronto ON, M3J 1P3 Canada</p>
     </br>
     <a href="mailto:matteo.dunnhofer@uniud.it" style="font-family: Menlo; color: #b509ac">matteo.dunnhofer@uniud.it</a>
+    <a href="mailto:matteo24@yorku.ca" style="font-family: Menlo; color: #b509ac">matteo24@yorku.ca</a>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
