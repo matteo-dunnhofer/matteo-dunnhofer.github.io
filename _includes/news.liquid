@@ -19,7 +19,7 @@
             <th scope="row" style="width: 20%"><p style="margin-bottom: 0">{{ item.date | date: '%b %d, %Y' }}</p></th>
             <td>
               {% if item.inline %}
-                {{ item.content | emojify }}
+                <p style="margin-bottom: 0">{{ item.content | emojify }}</p>
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}

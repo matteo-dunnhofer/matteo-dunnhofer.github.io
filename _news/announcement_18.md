@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<p style="margin-bottom: 0">Moved to York University in Toronto to start my MSCA Fellowship!</p>
+Moved to York University in Toronto to start my MSCA Fellowship!
