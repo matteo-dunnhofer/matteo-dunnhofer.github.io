@@ -3,11 +3,12 @@
     {% assign news_size = site.news | size %}
     <div
       class="table-responsive"
+      style="-webkit-transform: translate3d(0,0,0);"
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
         style="max-height: 60vw"
       {% endif %}
     >
-      <table class="table table-sm table-borderless" style="-webkit-transform: translate3d(0,0,0);">
+      <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
         {% if include.limit and site.announcements.limit %}
           {% assign news_limit = site.announcements.limit %}
