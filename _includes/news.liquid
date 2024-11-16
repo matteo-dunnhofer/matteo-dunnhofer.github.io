@@ -3,7 +3,6 @@
     {% assign news_size = site.news | size %}
     <div
       class="table-responsive"
-      style="-webkit-transform: translate3d(0,0,0);"
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
         style="max-height: 60vw"
       {% endif %}
@@ -20,7 +19,7 @@
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
               {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                {{ item.content | emojify }}
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}
