@@ -56,7 +56,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 ## Institutions
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/uniud.svg" title="example image" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
     <a href="https://www.uniud.it">
@@ -64,12 +64,13 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     </a>
     </div>
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/yorku.png" title="example image" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
     <a href="https://www.uniud.it">
     York University, Toronto, Canada
     </a>
+    </div>
     </div>
 </div>
 
@@ -88,8 +89,9 @@ Project updates will be posted here.
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/prinnevot/eu_funded_en.jpg" title="example image" class="img-fluid" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        The PRINNEVOT project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie grant agreement n. 101151834. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p style="font-size: 10px">The PRINNEVOT project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie grant agreement n. 101151834. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+        </p>
     </div>
 </div>
 
