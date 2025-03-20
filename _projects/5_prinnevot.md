@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PRINNEVOT - Towards Primate-like Artificial Neural Networks for Visual Object Tracking PRINNEVOT
-description: Horizon Europe Marie Skłodowska-Curie Action Postdoctoral Gloabal Fellowship 2023
+description: Horizon Europe Marie Skłodowska-Curie Action Postdoctoral Global Fellowship 2023
 img: assets/img/prinnevot.jpg
 importance: 1
-category: work
+category: leading
 related_publications: true
 ---
 
