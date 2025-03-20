@@ -1,12 +1,15 @@
 ---
 layout: page
-title: PRINNEVOT - Towards Primate-like Artificial Neural Networks for Visual Object Tracking PRINNEVOT
-description: Horizon Europe Marie Skłodowska-Curie Action Postdoctoral Global Fellowship 2023
+title: PRINNEVOT
+description: Horizon Europe MSCA Postdoctoral Global Fellowship 2023
 img: assets/img/prinnevot.jpg
 importance: 1
 category: leading
 related_publications: true
 ---
+
+# Towards Primate-like Artificial Neural Networks for Visual Object Tracking
+## Horizon Europe Marie Skłodowska-Curie Action Postdoctoral Global Fellowship 2023
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -14,36 +17,36 @@ related_publications: true
     </div>
 </div>
 
-# Abstract
+## Abstract
 
 The PRINNEVOT project embarks on a mission to bridge the gap between computer vision and the primate visual system in the context of Visual Object Tracking (VOT). VOT is the task of maintaining focus on a specific object amidst a dynamic visual environment. Our brains excel at it but replicating this ability in artificial vision systems remains a challenge. This project seeks to develop a novel class of VOT algorithms inspired by the primate visual system's prowess. Despite notable advancements in deep learning-based VOT over the past decade, these algorithms still fall short in emulating the robustness exhibited by primate vision. PRINNEVOT will address this gap through a multi-faceted approach. Firstly, PRINNEVOT will construct a comprehensive reference dataset, investigating both primate behavior and neural recordings. Secondly, among the existing artificial neural network (ANN)-based VOT methodologies, the project aims to identify those that align most closely with the primate brain's mechanisms. Lastly, PRINNEVOT will leverage the discovered inductive biases to develop a new ANN architecture for VOT that closely mirrors the primate's way of continuous object recognition and localization. By merging computer vision and computational neuroscience research, PRINNEVOT aspires to contribute to the development of more accurate and robust VOT algorithms. These algorithms, in alignment with the European Union's pursuit of safer and ethically grounded Artificial Intelligence, promise to enhance human-centric and trustworthy technologies. Furthermore, the project's outcomes will not only benefit AI and computer vision but also advance our understanding of the primate visual system, offering new empirical models of how the brain tracks objects in dynamic visual environments.
 
 
-# People
+## People
 
 <div class="row">
     <a href="https://matteo-dunnhofer.github.io">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/prinnevot/matteo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/matteo.jpg" title="example image" class="img-fluid rounded z-depth-1" width="150px" %}
     <div class="caption">
     Matteo Dunnhofer
     </div>
+    </div>
     </a>
     <a href="https://vital-kolab.org">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/prinnevot/kohitij.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/kohitij.jpg" title="example image" class="img-fluid rounded z-depth-1" width="150px" %}
     <div class="caption">
     Kohitij Kar
     </div>
+    </div>
     </a>
     <a href="https://people.uniud.it/page/christian.micheloni">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/prinnevot/christian.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/christian.jpg" title="example image" class="img-fluid rounded z-depth-1" width="150px" %}
     <div class="caption">
     Christian Micheloni
+    </div>
     </div>
     </a>
 </div>
