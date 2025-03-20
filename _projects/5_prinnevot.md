@@ -8,14 +8,14 @@ category: leading
 related_publications: true
 ---
 
-# Towards Primate-like Artificial Neural Networks for Visual Object Tracking
-### Horizon Europe Marie Skłodowska-Curie Action Postdoctoral Global Fellowship 2023
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot.jpg" title="example image" class="img-fluid rounded " %}
     </div>
 </div>
+
+# Towards Primate-like Artificial Neural Networks for Visual Object Tracking
+### Horizon Europe Marie Skłodowska-Curie Action Postdoctoral Global Fellowship 2023
 
 ## Description
 
@@ -30,7 +30,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/matteo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-    <a href="https://matteo-dunnhofer.github.io">
+    <a href="https://matteo-dunnhofer.github.io" style="font-size: 18px">
     Matteo Dunnhofer
     </a>
     </div>
@@ -38,14 +38,14 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/kohitij.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-    <a href="https://vital-kolab.org">
+    <a href="https://vital-kolab.org" style="font-size: 18px">
     Kohitij Kar
     </a>
     </div>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/christian.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
+    <div class="caption" style="font-size: 18px">
     <a href="https://people.uniud.it/page/christian.micheloni">
     Christian Micheloni
     </a>
@@ -58,7 +58,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/uniud.svg" title="example image" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
+    <div class="caption" style="font-size: 18px">
     <a href="https://www.uniud.it">
     University of Udine, Udine, Italy
     </a>
@@ -66,7 +66,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/yorku.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
+    <div class="caption" style="font-size: 18px">
     <a href="https://www.uniud.it">
     York University, Toronto, Canada
     </a>
@@ -81,42 +81,22 @@ Project updates will be posted here.
 
 ## Publications
 
-{% cite einstein1950meaning %}
+{% cite dunnhofer2025vss %}
+
+<div class="publications">
+    {% bibliography --cited_in_order %}
+</div>
+
 
 ## Acknowledgements
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/prinnevot/eu_funded_en.jpg" title="example image" class="img-fluid" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        <p style="font-size: 10px">The PRINNEVOT project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie grant agreement n. 101151834. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+        <p style="font-size: 10px; text-align: justify">The PRINNEVOT project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie grant agreement n. 101151834. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
         </p>
     </div>
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
