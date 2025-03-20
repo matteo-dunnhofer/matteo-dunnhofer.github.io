@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: PRINNEVOT
 description: Horizon Europe MSCA Postdoctoral Global Fellowship 2023
 img: assets/img/prinnevot.jpg
@@ -25,30 +25,30 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 ## People
 
 <div class="row">
-    <a href="https://matteo-dunnhofer.github.io">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/matteo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
+    <a href="https://matteo-dunnhofer.github.io">
     Matteo Dunnhofer
-    </div>
-    </div>
     </a>
-    <a href="https://vital-kolab.org">
+    </div>
+    </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/kohitij.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
+    <a href="https://vital-kolab.org">
     Kohitij Kar
-    </div>
-    </div>
     </a>
-    <a href="https://people.uniud.it/page/christian.micheloni">
+    </div>
+    </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/christian.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
+    <a href="https://people.uniud.it/page/christian.micheloni">
     Christian Micheloni
-    </div>
-    </div>
     </a>
+    </div>
+    </div>
 </div>
 
 ## Institutions
