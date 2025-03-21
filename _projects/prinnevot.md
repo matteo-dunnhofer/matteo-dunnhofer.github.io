@@ -78,11 +78,11 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 
 - **November 1st 2024** PRINNEVOT has started!
 <p style="text-align: justify">
-    The outgoing phase of the PRINNEVOT project has started. For the next two years, I will work at the Centre for Vision Research at York Unviersity.
+    The outgoing phase of the PRINNEVOT project has started. For the next two years, I will work at the <a href="https://www.yorku.ca/cvr/">Centre for Vision Research</a> at York Unviersity.
 </p>
 
-<div class="row">
-    <div class="col-sm-5 mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prinnevot/kickoff.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -93,7 +93,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 
 - **February 8th 2025** Abstract accepted at VSS 2025.
 <p style="text-align: justify">
-    The abstract titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations" {% cite dunnhofer2025vss %} has been accepted for presentation at the Vision Sciences Society (VSS) Meeting 2025 to be held in St. Pete Beach, Florida, USA.
+    The abstract titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations" {% cite dunnhofer2025vss %} has been accepted for presentation at the <a href="https://www.visionsciences.org">Vision Sciences Society (VSS) Meeting 2025</a> to be held in St. Pete Beach, Florida, USA.
 </p>
 
 #### Publications
