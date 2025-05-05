@@ -96,6 +96,20 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     The abstract titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations" {% cite dunnhofer2025vss %} has been accepted for presentation at the <a href="https://www.visionsciences.org">Vision Sciences Society (VSS) Meeting 2025</a> to be held in St. Pete Beach, Florida, USA in May 2025.
 </p>
 
+`[April 26th 2025]` Presented a poster at the NETI workshop!
+<p style="text-align: justify">
+   Preliminary results of the PRINNEVOT project have been presented at the <a href="https://liberalarts.utexas.edu/cps/neti-workshop/">Workshop on Natural Environments Tasks and Intelligence</a> at the University of Texas at Austin, USA.
+</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/neti.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Me presenting the poster titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations".
+</div>
+
 #### Publications
 
 <div class="publications">
