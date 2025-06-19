@@ -76,7 +76,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 
 #### Updates
 
-`[November 1st 2024]` PRINNEVOT has started!
+- `[November 1st 2024]` PRINNEVOT has started!
 <p style="text-align: justify">
     The outgoing phase of the PRINNEVOT project has started. For the next two years, I will work at the <a href="https://www.yorku.ca/cvr/">Centre for Vision Research</a> at York Unviersity.
 </p>
@@ -91,12 +91,12 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 </div>
 
 
-`[February 8th 2025]` Abstract accepted at VSS 2025.
+- `[February 8th 2025]` Abstract accepted at VSS 2025.
 <p style="text-align: justify">
     The abstract titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations" {% cite dunnhofer2025vss %} has been accepted for presentation at the <a href="https://www.visionsciences.org">Vision Sciences Society (VSS) Meeting 2025</a> to be held in St. Pete Beach, Florida, USA in May 2025.
 </p>
 
-`[April 26th 2025]` Presented a poster at the NETI workshop!
+- `[April 26th 2025]` Presented a poster at the NETI workshop!
 <p style="text-align: justify">
    Preliminary results of the PRINNEVOT project have been presented at the <a href="https://liberalarts.utexas.edu/cps/neti-workshop/">Workshop on Natural Environments Tasks and Intelligence</a> at the University of Texas at Austin, USA.
 </p>
@@ -108,6 +108,34 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 </div>
 <div class="caption">
     Me presenting the poster titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations".
+</div>
+
+- `[May 25th 2025]` Presented a poster at VSS 2025!
+<p style="text-align: justify">
+   Preliminary results of the PRINNEVOT project have been presented at the <a href="https://www.visionsciences.org/welcome-2025/">Vision Sciences Society Meeting 2025</a> in St. Pete Beach, USA.
+</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/vss2025.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Me presenting the poster titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations" at VSS 2025.
+</div>
+
+- `[June 18th 2025]` Presented a poster at The Brain and Integrative Vision Conference 2025!
+<p style="text-align: justify">
+   Current findings on modeling object motion in the macaque IT with deep neural networks have been presented at the <a href="https://www.yorku.ca/events/brain-and-integrative-vision-conference/">The Brain and Integrative Vision Conference 2025</a> at York University.
+</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/cvrcian2025.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The poster titled "Dynamic Object Processing in Macaque IT Cortex: Temporal Dynamics and Model Limitations" with latest findings at the CVR-CIAN Conference 2025.
 </div>
 
 #### Publications
