@@ -251,8 +251,8 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
-      {% if entry.extversion %}
-        <a href="{{ entry.extversion }}" class="btn btn-sm z-depth-0" role="button">Extended version: {{ entry.extversionname }}</a>
+      {% if entry.journalver %}
+        <a href="{{ entry.journalver }}" class="btn btn-sm z-depth-0" role="button">Journal Version: {{ entry.journalvername }}</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

@@ -6,7 +6,7 @@ subtitle: Marie Skłodowska-Curie Postdoctoral Fellow
 
 profile:
   align: right
-  image: 2022_rect_opt.jpeg
+  image: 2025_opt.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-family: Menlo">Lassonde Building, York University, 4700 Keele St, Toronto ON, M3J 1P3 Canada</p>
