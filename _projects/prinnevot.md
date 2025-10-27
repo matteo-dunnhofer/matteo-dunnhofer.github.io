@@ -140,7 +140,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 
 - `[June 25th 2025]` Paper accepted at ICCV 2025.
 <p style="text-align: justify">
-    The paper titled "Is Tracking really more challenging in First Person Egocentric Vision?" {% cite dunnhofer2025istracking %} has been accepted for presentation at the <a href="https://iccv.thecvf.com">International Conference on Computer Vision (ICCV) 2025</a> to be held in Honolulu, Hawaii, USA in October 2025.
+    The paper titled "Is Tracking really more challenging in First Person Egocentric Vision?" {% cite dunnhofer2025istracking %} has been accepted for presentation at the <a href="https://iccv.thecvf.com">IEEE/CVF International Conference on Computer Vision (ICCV) 2025</a> to be held in Honolulu, Hawaii, USA in October 2025.
 </p>
 
 - `[September 5th 2025]` Paper accepted at WACV 2026.
@@ -148,7 +148,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     The paper titled "Online Episodic Memory Visual Query Localization with Egocentric Streaming Object Memory" {% cite manigrasso2024onlineepisodicmemoryvisual %} has been accepted for presentation at the <a href="https://iccv.thecvf.com">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</a> to be held in Tucson, Arizona, USA in March 2026.
 </p>
 
-- `[October 21st 2025]` Two posters presented at the International Conference on Computer Vision (ICCV) 2025!
+- `[October 21st 2025]` Two posters presented at ICCV 2025!
 <p style="text-align: justify">
    New findings on comparing video ANNs againts macaque IT dynamics have been presented at the <a href="https://sites.google.com/view/hcvworkshop2025">Human-inspired Computer Vision workshop</a> {% cite dunnhofer2025vss %}.
 </p>
