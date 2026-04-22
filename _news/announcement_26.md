@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper on efficient vision backbones for CPU-based devices is accepted in CVPR 2026 Findings!
+A <a href="https://arxiv.org/abs/2603.26425">paper</a> on efficient vision backbones for CPU-based devices is accepted in <a href="https://cvpr.thecvf.com">CVPR 2026</a> Findings!
