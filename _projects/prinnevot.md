@@ -232,7 +232,7 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 </p>
 
 
-- `[May 11th 2026]` Gave a seminar to the students of the Computer Vision and Deep Learning course at Università Politecnica delle Marche!
+- `[May 11th 2026]` Gave a seminar to the students of the Computer Vision and Deep Learning course at Università Politecnica delle Marche, Italy!
 <p style="text-align: justify">
    I gave a virtual talk titled "Human-centric Visual Object Tracking". It talk presented recent advances from the PRINNEVOT project to Master's students. It first highlighted the role of visual object tracking in enabling computer vision–based egocentric episodic memory systems, where objects are tracked to build structured representations of past user-centric visual experiences ({% cite manigrasso2024onlineepisodicmemoryvisual %}). It then examined the key challenges posed by this setting, showing that current object tracking methods are biased towards a third-person viewpoint rather than a human-like first-person point of view ({% cite dunnhofer2025istracking %}). Finally, the talk discussed how comparing the internal representations of deep learning–based tracking algorithms with dynamic neural recordings in the primate ventral visual stream could provide insights for designing more robust and human-inspired tracking architectures (preprint, 2026).
 </p>
@@ -246,6 +246,20 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     Picture captured during the talk at Università Politecnica delle Marche.
 </div>
 
+
+- `[May 19th 2026]` Gave a talk at VSS 2026!
+<p style="text-align: justify">
+   Latest findings on comparing video ANNs againts macaque IT dynamics have been disseminated at the <a href="https://www.cosyne.org">Vision Sciences Society (VSS) Meeting 2026</a> {% cite dunnhofer2026vss %}.
+</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/vss2026.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Picture captured during the talk at VSS 2026.
+</div>
 
 
 #### Publications
