@@ -16,6 +16,8 @@ The goal of my research is to let machines sense and understand object dynamics 
 
 I serve as reviewer for the most relevant conferences and journals in computer vision (CVPR, ICCV, ECCV, ACCV, WACV, TPAMI, IJCV), pattern recognition (ICPR, PR), robotics (ICRA, RA-L), and medical image analysis (MIDL, MedIA, TMI). I was recognized as an outstanding reviewer by <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer">CVPR 2025</a> and <a href="https://eccv2022.ecva.net/program/outstanding-reviewers/">ECCV 2022</a>. I have been involved in the organization of a series of workshops on <a href="https://machinelearning.uniud.it/events/CV4WS-2023/Home.html">Computer Vision for Winter Sports</a> at <a href="https://wacv2023.thecvf.com/home">WACV</a> and of <a href="https://epic-kitchens.github.io/2023#tracking">object tracking challenges</a> at <a href="https://cvpr2023.thecvf.com">CVPR</a>. I am also an associate editor of the <a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a> and <a href="https://www.springer.com/journal/371">The Visual Computer</a> journal.
 
+I am a member of the <a href="https://ellis.eu">European Laboratory for Learning and Intelligent Systems (ELLIS)</a>, of the <a href="https://www.thecvf.com">Computer Vision Foundation (CVF)</a>, and the <a href="https://www.cvpl.it/en/">Italian Association for Computer Vision, Pattern Recognition, and Machine Learning (CVPL)</a>.
+
 # cv
 
 For all the details, you can have a look at my <a href="../assets/pdf/Dunnhofer2024.pdf">curriculum vitae</a>.
