@@ -261,6 +261,11 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
     Picture captured during the talk at VSS 2026.
 </div>
 
+- `[August 26th 2026]` Preprint out!
+<p style="text-align: justify">
+   A new <a href="https://arxiv.org/abs/2608.23790">preprint</a> {% cite dunnhofer2026primate %} is published online. In this work, we compare human perception and neural activity in macaque inferior temporal cortex with representations from image- and video-based neural networks to understand how intelligent visual systems combine what objects look like with how they move.
+</p>
+
 
 #### Publications
 
