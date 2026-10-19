@@ -267,6 +267,20 @@ The PRINNEVOT project embarks on a mission to bridge the gap between computer vi
 </p>
 
 
+- `[October 15th 2026]` Presented our work at Harvard University!
+<p style="text-align: justify">
+   The results achieved during the outgoing phase of the project, about object motion representations in the visual ventral stream and their modeling through video ANNs, have been disseminated at the <a href="https://ponce.hms.harvard.edu">Ponce Lab</a> at Harvard Medical School.
+</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prinnevot/hms2026.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Picture captured during the presentation at Harvard Medical School.
+</div>
+
 #### Publications
 
 <div class="publications">
@@ -283,6 +297,20 @@ We explicitly and unreservedly dissociate ourselves from any such harmful, uneth
 The research and development activities carried out within PRINNEVOT have been conducted in strict adherence to the European Union's guidelines for Trustworthy AI, including a thorough self-assessment against the Assessment List for Trustworthy Artificial Intelligence (ALTAI) developed by the European Commission's High-Level Expert Group on AI. Throughout the project, all activities have been carried out under the supervision and guidance of a designated AI Ethics expert, ensuring that ethical considerations have been integrated into the project's design, execution, and dissemination from the outset and at every stage of its lifecycle.
 
 We invite all those who engage with the outputs of the PRINNEVOT project to join us in upholding these commitments, and we welcome feedback, questions, and concerns regarding the ethical dimensions of our work. For any ethics-related enquiries, please contact the project team directly through the contact information provided on this website.
+</p>
+
+
+#### Non-Human Primate Research Ethics Disclaimer
+<p style="text-align: justify">
+The PRINNEVOT project and its contributors acknowledge the significant ethical responsibilities associated with scientific research involving non-human primates (NHPs). Research with NHPs has contributed fundamentally to our understanding of the neural mechanisms underlying visual perception, cognition, and behaviour. Due to the similarities between human and non-human primate visual systems, such research continues to provide valuable insights that cannot always be obtained through existing non-invasive or computational approaches. Nevertheless, we recognise that the scientific benefits of this research must be carefully balanced against the ethical obligation to respect animal welfare, minimise suffering, and pursue alternative methodologies whenever possible.
+
+A fundamental objective of PRINNEVOT is to advance our understanding of biological visual perception and translate this knowledge into computational models capable of reproducing aspects of primate visual processing, particularly in dynamic visual environments. Beyond advancing Artificial Intelligence (AI) and Visual Object Tracking (VOT), the project aims to contribute to the development of reliable computational alternatives that can progressively reduce, and potentially replace in the future, the need for experiments involving NHPs. By investigating the relationships between neural activity and computational mechanisms, PRINNEVOT seeks to support the development of in silico models that can be used to investigate scientific hypotheses, simulate neural responses, and guide future research without necessarily requiring additional animal experimentation.
+
+The project embraces the internationally recognised principles of the 3Rs: Replacement, Reduction, and Refinement, which promote the use of alternative research methods, the minimisation of animal involvement, and the improvement of experimental procedures to safeguard animal welfare. We recognise that research involving NHPs must be scientifically justified, conducted under appropriate ethical and institutional oversight, and supported by rigorous animal care standards. 
+
+PRINNEVOT is committed to scientific transparency, responsible research practices, and the ethical dissemination of its findings. We recognise that current computational models cannot yet reproduce the full complexity of biological visual systems and that the replacement of NHP research remains a long-term scientific challenge. Nevertheless, we believe that advancing biologically informed AI represents a promising direction towards reducing reliance on animal experimentation while continuing to improve our understanding of visual intelligence. We encourage the scientific community to pursue these objectives responsibly, fostering research approaches in which scientific progress, technological innovation, and respect for animal welfare reinforce one another.
+
+We welcome feedback, questions, and concerns regarding the ethical dimensions of our research. For any ethics-related enquiries, please contact the project team directly through the contact information provided on this website.
 </p>
 
 
